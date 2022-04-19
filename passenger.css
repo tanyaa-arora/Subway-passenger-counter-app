@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darksalmon;
+    text-align: center;
+}
+button{
+    border: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    width:200px;
+    border-style: solid;
+}
+.increment_btn{
+    background-color: darkred;
+}
